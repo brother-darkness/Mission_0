@@ -1,0 +1,114 @@
+.randomImageBody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #151E34;
+    margin-top:34vh ; 
+    width:100%;
+    height:400px;
+} 
+
+/* Image styles */
+.NZPic {
+    height:150px;
+    width:250px;
+    
+}
+
+.AfricaPic {
+    height:150px;
+    width:250px;
+}
+
+.NYPic {
+    height:150px;
+    width:250px;
+}
+
+/* Card Styles */
+
+/* Card 1 */
+.cardInfo_01 {
+    margin-top:1.5%;
+    margin-right: 30px;
+    width:250px;
+    border-style: solid;
+    border-color: #FF395C;
+    border-width: 6px;
+    border-radius:10px;
+
+    
+    
+}
+.cardInfo_01 h3 {
+    margin-top:-1.5%;
+    text-align: center;
+    background-color: rgb(9, 6, 43);
+    color: whitesmoke;
+    width: 250px;
+    border-radius: 5px;
+
+    
+}
+
+.cardInfo_01 h4 {
+    color: whitesmoke;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+/* Card 2 */
+.cardInfo_02 {
+    margin-right: 30px;
+    margin-top: -1.5%;
+    width:250px;
+    border-style: solid;
+    border-color: #FF395C;
+    border-width: 6px;
+    border-radius:10px;
+
+    
+}
+.cardInfo_02 h3 {
+    margin-top:-1.5%;
+    text-align: center;
+    background-color: rgb(9, 6, 43);
+    color: whitesmoke;
+    width: 250px;
+    border-radius: 5px;
+    
+}
+.cardInfo_02 h4 {
+    color: whitesmoke;
+    margin-left: 5%;
+    margin-right: 4%;
+}
+
+
+/* Card 3 */
+.cardInfo_03 {
+    margin-top: 1.5%;
+    margin-right: 30px;
+    width:250px;
+    border-style: solid;
+    border-color: #FF395C;
+    border-width: 6px;
+    
+    border-radius:10px;
+}
+.cardInfo_03 h3 {
+    margin-top:-1.5%;
+    text-align: center;
+    background-color:rgb(9, 6, 43);
+    color: whitesmoke;
+    width: 250px;
+    border-radius: 5px;
+    
+}
+
+.cardInfo_03 h4 {
+    color: whitesmoke;
+    margin-left: 5%;
+    margin-right: 5%;
+}
