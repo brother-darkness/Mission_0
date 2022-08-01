@@ -17,7 +17,7 @@ export default function UpperBody() {
             <Button
               size="medium"
               variant="contained"
-              sx={{ height: 20, backgroundColor: "#008080" }}
+              sx={{ height: 20, backgroundColor: "#FF395C" }}
             >Search
             </Button>
             {/* <TextField id="outlined-basic" label="Search..." variant="outlined" /> */}
