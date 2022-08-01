@@ -19,7 +19,7 @@ export default function Header() {
                      <Button  sx={{ height: 35, mr: 4, backgroundColor:"#151E34", fontWeight:"bold", fontStyle:"italic" }} variant="contained" size="medium">Book Now</Button>
                      <Button  sx={{ height: 35, mr: 4, backgroundColor:"#151E34", fontWeight:"bold", fontStyle:"italic" }} variant="contained" size="medium">FAQ</Button>
                      <Button  sx={{ height: 35, mr: 4, backgroundColor:"#151E34", fontWeight:"bold", fontStyle:"italic" }} variant="contained" size="medium">About Us</Button>
-                     <Button  sx={{ height: 35, mr: 4, backgroundColor:"#330b5b", fontWeight:"bold" }} variant="contained" size="medium">LOGOUT</Button>
+                     <Button  sx={{ height: 35, mr: 4, backgroundColor:"#FF395C", fontWeight:"bold" }} variant="contained" size="medium">LOGIN</Button>
                      </div>
 
                   
