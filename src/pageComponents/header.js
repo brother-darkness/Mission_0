@@ -10,7 +10,7 @@ export default function Header() {
                   {/* Company Profile */}
                     <div className={styles.companyProfile}>
                         <img src={profilepic} alt='profile picture'/>
-                        <h3>Trip Minder</h3>
+                        <h3>Trip Minder</h3> <h4>We help you make your dream itinerary a reality.</h4>
 
                      </div>
 

@@ -5,7 +5,7 @@
     background-color: #151E34;
     margin-top:34vh ; 
     width:100%;
-    height:400px;
+    height:500px;
 } 
 
 /* Image styles */
@@ -41,6 +41,8 @@
     
 }
 .cardInfo_01 h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-top:-1.5%;
     text-align: center;
     background-color: rgb(9, 6, 43);
@@ -61,7 +63,7 @@
 /* Card 2 */
 .cardInfo_02 {
     margin-right: 30px;
-    margin-top: -1.5%;
+    margin-top: 1.5%;
     width:250px;
     border-style: solid;
     border-color: #FF395C;
@@ -71,6 +73,8 @@
     
 }
 .cardInfo_02 h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-top:-1.5%;
     text-align: center;
     background-color: rgb(9, 6, 43);
@@ -98,8 +102,11 @@
     border-radius:10px;
 }
 .cardInfo_03 h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-top:-1.5%;
     text-align: center;
+    justify-content: center;
     background-color:rgb(9, 6, 43);
     color: whitesmoke;
     width: 250px;
@@ -112,3 +119,4 @@
     margin-left: 5%;
     margin-right: 5%;
 }
+

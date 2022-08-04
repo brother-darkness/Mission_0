@@ -26,7 +26,8 @@ export default function LowerBodyData() {
                 <img className={styles.AfricaPic} src={AfricaPic} alt='Africa'/>
                 <h3>Africa</h3>
                 <h4>Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusantium doloremque laudantium.
+                    voluptatem accusantium doloremque laudantium. Iste natus error sit
+                    voluptatem. Unde Omnis iste
                 </h4>
             </div>
 
